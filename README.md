@@ -1,4 +1,4 @@
-# NYCclimate
+# NYC-Climate-Change
 
   Climate change is defined as the average weather in a place over many years. In particular, it
 relates to the drastic change that shows up from the mid to late 20th century onwards. This is due
